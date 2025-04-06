@@ -1,0 +1,2 @@
+Child PID 2335 counted 8 alphabets.
+Parent PID 2334 counted 0 digits.
